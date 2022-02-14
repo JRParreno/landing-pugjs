@@ -1,1 +1,2 @@
-# landing-pugjs
+# PugJS
+demo landing page using pugjs
